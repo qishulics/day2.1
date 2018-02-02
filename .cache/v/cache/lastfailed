@@ -1,0 +1,4 @@
+{
+  "scripts/test_search.py::Test_Search_Page::()::test_input_text": true,
+  "scripts/test_search.py::Test_Search_Page::()::test_input_text[search_002-nihao-123]": true
+}
